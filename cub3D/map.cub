@@ -1,0 +1,10 @@
+NO ./imageN.xpm
+SO ./imageS.xpm
+C 46,255,0
+F 1,43,255
+WE ./imageW.xpm
+EA ./imageE.xpm
+
+111111111111
+100000000N11
+111111111111
